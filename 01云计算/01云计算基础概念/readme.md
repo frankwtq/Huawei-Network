@@ -12,7 +12,7 @@
  
 > #### 技术角度：云计算=计算/存储的网络 ####
 >> 分为狭义和广义云计算  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/01.png)
+![alt](img/01.png)
 
 ### 云计算的部署模式 ###
 > 私有云、公有云、混合云
@@ -43,33 +43,33 @@ PaaS公司在网上提供各种开发和分发应用的解决方案，比如虚�
 * 看不到投资回报  
 ### 云计算的价值体现--智能资源调度 ###
 > 快速实现业务的负载均衡  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/02.png)  
+![alt](img/02.png)  
 > 节能减排  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/03.png)
+![alt](img/03.png)
 
 ### 云计算的价值--提高资源利用率 ###
 > 资源共享  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/04.png)  
+![alt](img/04.png)  
 > 分时共享  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/05.png)
+![alt](img/05.png)
 
 ### 云计算的价值--分布式计算存储 ###
-> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/06.png)
+> ![alt](img/06.png)
 
 ### 云计算的价值--统一管理 ###
-> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/07.png)
+> ![alt](img/07.png)
 
 ### 云计算的价值--业务快速部署 ###
-> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/08.png)
+> ![alt](img/08.png)
 
 
 ## 03虚拟化技术简介 ##
 ### 虚拟化的起源 ###
-> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/09.png)
+> ![alt](img/09.png)
 
 ### 虚拟化的概念 ###
 > 虚拟化是指通过虚拟化技术，将一台计算机虚拟为多台逻辑计算机，在一台计算机上同时运行多个逻辑计算机，每个逻辑计算机可运行不同的操作系统，并且，应用程序都可以在相互独立的空间内运行而互不影响，从而显著地提高计算机的工作效率。  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/10.png)
+![alt](img/10.png)
 
 ### 虚拟化的主要内容 ###
 > 计算虚拟化：CPU虚拟化、内存虚拟化、I/O虚拟化  

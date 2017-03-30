@@ -34,12 +34,50 @@ PaaS公司在网上提供各种开发和分发应用的解决方案，比如虚拟服务器和操作系统。这节省
 一些用作商务的SaaS应用包括Citrix的GoToMeeting，Cisco的WebEx，Salesforce的CRM，ADP，Workday和SuccessFactors。
 
 ## 02云计算的价值 ##
-行业客户反应的困难和挑战：
-复杂性与平滑过渡
-可靠性或SLA
-工作负载可迁移性
-数据安全性
-厂商锁定
-看不到投资回报
-云计算的价值体现--智能资源调度
-快速实现业务的负载均衡
+### 行业客户反应的困难和挑战 ###
+> * 复杂性与平滑过渡  
+* 可靠性或SLA
+* 工作负载可迁移性
+* 数据安全性
+* 厂商锁定
+* 看不到投资回报
+### 云计算的价值体现--智能资源调度 ###
+> 快速实现业务的负载均衡
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/02.png)
+> 节能减排
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/03.png)
+
+### 云计算的价值--提高资源利用率 ###
+> 资源共享
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/04.png)
+> 分时共享
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/05.png)
+
+### 云计算的价值--分布式计算存储 ###
+> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/06.png)
+
+### 云计算的价值--统一管理 ###
+> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/07.png)
+
+### 云计算的价值--业务快速部署 ###
+> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/08.png)
+
+
+## 03虚拟化技术简介 ##
+### 虚拟化的起源 ###
+> ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/09.png)
+
+### 虚拟化的概念 ###
+> 虚拟化是指通过虚拟化技术，将一台计算机虚拟为多台逻辑计算机，在一台计算机上同时运行多个逻辑计算机，每个逻辑计算机可运行不同的操作系统，并且，应用程序都可以在相互独立的空间内运行而互不影响，从而显著地提高计算机的工作效率。
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/10.png)
+
+### 虚拟化的主要内容 ###
+> 计算虚拟化：CPU虚拟化、内存虚拟化、I/O虚拟化
+存储虚拟化：裸设备+逻辑卷、存储设备虚拟化、主机存储虚拟化+文件系统
+网络虚拟化：虚拟专用网VPN、虚拟网络VLAN
+
+### 虚拟化的本质 ###
+> 分区：在单一物理服务器上可同时运行多个虚拟机，按需使用硬件资源池中的资源
+隔离：每个虚拟机之间嗾使隔离的，业务互不影响
+封装：整个虚拟机的执行环境封装在独立的文件中，可以通过移动复制这些文件来移动和复制该虚拟机
+独立：相对于硬件独立，虚拟机无需任何修改，可在任何物理服务器上运行，实现虚拟机的热迁移

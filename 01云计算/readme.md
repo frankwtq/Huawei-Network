@@ -43,13 +43,13 @@ PaaS公司在网上提供各种开发和分发应用的解决方案，比如虚�
 * 看不到投资回报  
 ### 云计算的价值体现--智能资源调度 ###
 > 快速实现业务的负载均衡  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/02.png)
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/02.png)  
 > 节能减排  
 ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/03.png)
 
 ### 云计算的价值--提高资源利用率 ###
 > 资源共享  
-![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/04.png)
+![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/04.png)  
 > 分时共享  
 ![alt](https://github.com/frankwtq/Huawei-Network/blob/master/01%E4%BA%91%E8%AE%A1%E7%AE%97/img/05.png)
 
